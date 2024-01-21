@@ -16,7 +16,7 @@ function App() {
     >
       <div className="form-container sign-up-container">
         <form action="#">
-          <h1 className="font-bold m-0">Create Account</h1>
+          <h1>Create Account</h1>
           <div className="social-container">
             <a href="#" className="social">
               <FaFacebookF />
